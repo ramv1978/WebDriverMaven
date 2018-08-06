@@ -13,6 +13,7 @@ public class AppTest
     {
     	WebDriver driver = new FirefoxDriver();
     			driver.get("http://way2automation.com");
+    			System.out.println("This will be in github");
     			
     }
 }
